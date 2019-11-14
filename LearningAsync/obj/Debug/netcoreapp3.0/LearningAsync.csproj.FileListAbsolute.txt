@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\bin\Debug\netcoreapp3.0\LearningAsync.exe
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\bin\Debug\netcoreapp3.0\LearningAsync.deps.json
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\bin\Debug\netcoreapp3.0\LearningAsync.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\bin\Debug\netcoreapp3.0\LearningAsync.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\bin\Debug\netcoreapp3.0\LearningAsync.dll
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\bin\Debug\netcoreapp3.0\LearningAsync.pdb
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\obj\Debug\netcoreapp3.0\LearningAsync.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\obj\Debug\netcoreapp3.0\LearningAsync.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\obj\Debug\netcoreapp3.0\LearningAsync.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\obj\Debug\netcoreapp3.0\LearningAsync.dll
+C:\Users\Jason\source\repos\LearningAsync\LearningAsync\obj\Debug\netcoreapp3.0\LearningAsync.pdb
